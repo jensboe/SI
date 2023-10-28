@@ -477,7 +477,6 @@ struct unit_t {
     return ret_val;
   }
 
-private:
   _type value_;
 };
 
